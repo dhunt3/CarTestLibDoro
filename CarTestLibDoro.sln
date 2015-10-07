@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarTestLibDoro", "CarTestLibDoro\CarTestLibDoro.csproj", "{66021254-CEC4-4A98-AA6A-A15471A3E33D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarProgramDoro", "CarProgramDoro\CarProgramDoro.csproj", "{33353029-EFCF-4265-BE47-DA60936DAE8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66021254-CEC4-4A98-AA6A-A15471A3E33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66021254-CEC4-4A98-AA6A-A15471A3E33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66021254-CEC4-4A98-AA6A-A15471A3E33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66021254-CEC4-4A98-AA6A-A15471A3E33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33353029-EFCF-4265-BE47-DA60936DAE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33353029-EFCF-4265-BE47-DA60936DAE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33353029-EFCF-4265-BE47-DA60936DAE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33353029-EFCF-4265-BE47-DA60936DAE8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
